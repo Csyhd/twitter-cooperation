@@ -1,6 +1,7 @@
 <template>
   <div class="container py-5">
     <form class="w-50" @submit.stop.prevent="handleSubmit">
+      <p>logo</p>
       <div class="text-center mb-4">
         <h1 class="h3 mb-3 font-weight-normal">建立你的帳號</h1>
       </div>
